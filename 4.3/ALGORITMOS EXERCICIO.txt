@@ -1,0 +1,16 @@
+ALGORITMOS EXERCICIO
+
+#1
+>Iniciar um variável sum em 0
+>Criar um laço que percorre os índices de 1 a 50
+>Para cada iteração, somar o valor do índice na variável sum
+
+#2
+>Iniciar uma variável n em 0
+>Criar um laço que percorre os índices de 2 a 150
+>Para cada iteração, conferir a seguinte condição:
+>Se o resto da divisão do índice por 3 for 0, somar 1 em n
+>Se o resto da divisão do índice por 3 for diferente de 0, fazer nada
+>Após o fim do laço, conferir se n = 50
+>Se sim, imprimir 'xablau'
+>Se não, fazer nada
